@@ -21,7 +21,7 @@ Check all my projects here in https://github.com/navass11
 
 ### 🚀 My top languages
 ***
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navass11)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=navass11&hide=jupyter%20notebook,python,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)]
 
 
 <details>

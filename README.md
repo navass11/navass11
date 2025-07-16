@@ -5,7 +5,7 @@ Check all my projects here in https://github.com/navass11
 - 🔭 Senior Civil Engineer at Hidralab S.L. (Ciudad Real, Spain), specializing in Climate, Hydrology, and Technological Development.
 With a strong foundation in civil engineering, my work focuses on the study of climate and hydrological processes, as well as the development of innovative technologies for water management. Experienced in the design of hydraulic infrastructure, river and watershed modeling, and digital solutions to enhance project sustainability and performance.
 - 💞️ I'm looking to collaborate on engineering research projects.
-- 📫 How to reach me: Reach me sending me and email to salvador.navas@unican.es
+- 📫 How to reach me: Reach me sending me and email to salvador.navas@hidralab.com
 
 ### Elsewhere on the internet
 ***
